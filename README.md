@@ -1,6 +1,6 @@
 # Privacy Policy for Cyberbul
 
-This Privacy Policy describes how Cyberbul, operated by [Your Company Name], ("we", "us", or "our") collects, uses, and shares information when you use our Cyberbul mobile application (the "App").
+This Privacy Policy describes how Cyberbul, operated by HackerAssociates, ("we", "us", or "our") collects, uses, and shares information when you use our Cyberbul mobile application (the "App").
 
 ## Information We Collect
 
